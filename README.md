@@ -40,5 +40,6 @@ Download the repo to your local machine, use the command `npm install` in order 
 ## Screenshot
 
 
+![Screenshot 2022-05-02 230018](https://user-images.githubusercontent.com/92322247/166403848-7358a292-ed1c-4290-8656-28a20f39c2f3.png)
 
 
